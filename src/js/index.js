@@ -1,5 +1,6 @@
 import { fetchImages } from '../js/fetchImages';
 import Notiflix from 'notiflix';
+import Axios from 'axios';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
